@@ -20,6 +20,10 @@ public class ChangeColor : MonoBehaviour
 		{
 			sr.color = Color.red;
 		}
-		
+
+		if (Input.GetKeyDown(KeyCode.A))
+		{
+			sr.color = Color.green;
+		}
 	}
 }
