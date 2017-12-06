@@ -19,6 +19,7 @@ public class ChangeColor : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.Space))
 		{
 			sr.color = Color.red;
+			//patrick's comment
 		}
 
 		if (Input.GetKeyDown(KeyCode.A))
