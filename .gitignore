@@ -85,3 +85,7 @@ jamtest/\.idea/\.idea\.jamtest/
 jamtest/Assets/Plugins/Editor/JetBrains/
 
 jamtest/Library/
+
+jamtest/\.idea/
+
+jamtest/obj/
